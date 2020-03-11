@@ -2409,7 +2409,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:324px;
+  width:338px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2428,7 +2428,7 @@
   position:absolute;
   left:100px;
   top:62px;
-  width:324px;
+  width:338px;
   height:37px;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
@@ -2440,8 +2440,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:324px;
-  white-space:nowrap;
+  width:338px;
+  word-wrap:break-word;
 }
 #u5449_div {
   border-width:0px;
@@ -2798,7 +2798,7 @@ body.a {  background-color:rgba(0, 0, 0, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:324px;
+  width:338px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
